@@ -2,3 +2,4 @@
 
 * Jocker
 * Magnus
+* Dr. Doom

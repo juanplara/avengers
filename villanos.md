@@ -1,5 +1,5 @@
 # Villanos
 
-* Jocker
 * Magnus
 * Dr. Doom
+* Capitan América
